@@ -62,3 +62,26 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Building Guide
+
+### creating laravel project. 
+
+```
+composer create-project laravel/laravel hi-laravel
+```
+
+Here hi-laravel is the project name.
+
+### serving the project.
+
+change the cmd directory to inside project.
+```
+php artisan serve
+```
+
+## Output 
+
+Open the browser visit  http://127.0.0.1:8000
+
+
